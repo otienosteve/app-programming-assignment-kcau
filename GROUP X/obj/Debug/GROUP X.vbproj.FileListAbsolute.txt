@@ -1,0 +1,24 @@
+C:\Users\user\source\repos\GROUP X\GROUP X\bin\Debug\GROUP X.exe.config
+C:\Users\user\source\repos\GROUP X\GROUP X\bin\Debug\GROUP X.exe
+C:\Users\user\source\repos\GROUP X\GROUP X\bin\Debug\GROUP X.pdb
+C:\Users\user\source\repos\GROUP X\GROUP X\bin\Debug\GROUP X.xml
+C:\Users\user\source\repos\GROUP X\GROUP X\obj\Debug\GROUP X.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\GROUP X\GROUP X\obj\Debug\GROUP_X.Form1.resources
+C:\Users\user\source\repos\GROUP X\GROUP X\obj\Debug\GROUP_X.Resources.resources
+C:\Users\user\source\repos\GROUP X\GROUP X\obj\Debug\GROUP_X.studentsForm.resources
+C:\Users\user\source\repos\GROUP X\GROUP X\obj\Debug\GROUP X.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\GROUP X\GROUP X\obj\Debug\GROUP X.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GROUP X\GROUP X\obj\Debug\GROUP X.exe
+C:\Users\user\source\repos\GROUP X\GROUP X\obj\Debug\GROUP X.xml
+C:\Users\user\source\repos\GROUP X\GROUP X\obj\Debug\GROUP X.pdb
+C:\Users\user\source\repos\GROUP X\GROUP X\obj\Debug\GROUP_X.frmAccounts.resources
+C:\Users\user\source\repos\GROUP X\GROUP X\obj\Debug\GROUP_X.frmAssets.resources
+C:\Users\user\source\repos\GROUP X\GROUP X\obj\Debug\GROUP_X.frmBioData.resources
+C:\Users\user\source\repos\GROUP X\GROUP X\obj\Debug\GROUP_X.frmCourses.resources
+C:\Users\user\source\repos\GROUP X\GROUP X\obj\Debug\GROUP_X.frmTeacher.resources
+C:\Users\user\source\repos\GROUP X\GROUP X\bin\Debug\System.Data.OleDb.dll
+C:\Users\user\source\repos\GROUP X\GROUP X\bin\Debug\System.Data.OleDb.xml
+C:\Users\user\source\repos\GROUP X\GROUP X\obj\Debug\GROUP X.vbproj.CopyComplete
+C:\Users\user\source\repos\GROUP X\GROUP X\obj\Debug\GROUP_X.frmExponent.resources
+C:\Users\user\source\repos\GROUP X\GROUP X\obj\Debug\GROUP_X.frmRectangle.resources
+C:\Users\user\source\repos\GROUP X\GROUP X\obj\Debug\GROUP_X.frmPaylsip.resources
